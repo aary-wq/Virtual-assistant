@@ -1,2 +1,2 @@
 # JarvisOpenAI
-Jarvis Assistant using OpenAI
+This virtual assistant is built using Python and voice recognition to enable hands-free interaction with the system. It listens to user commands and performs actions such as opening applications, searching the web, checking time and date, writing and saving files, composing emails, controlling system volume, and executing keyboard actions like backspace. The assistant also integrates AI capabilities using the OpenAI API to dynamically generate content such as emails and code files based on spoken instructions. The project focuses on improving productivity through voice-based automation and intelligent task execution.
